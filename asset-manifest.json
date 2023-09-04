@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bgg-search/static/css/main.494112b7.css",
+    "main.js": "/bgg-search/static/js/main.e7383ecc.js",
+    "index.html": "/bgg-search/index.html",
+    "main.494112b7.css.map": "/bgg-search/static/css/main.494112b7.css.map",
+    "main.e7383ecc.js.map": "/bgg-search/static/js/main.e7383ecc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494112b7.css",
+    "static/js/main.e7383ecc.js"
+  ]
+}
